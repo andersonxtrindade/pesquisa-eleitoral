@@ -1,6 +1,7 @@
 # Projeto de Pesquisa Eleitoral
 
 Este projeto é uma aplicação que permite a coleta e análise de dados de pesquisas eleitorais. Ele é dividido em duas partes: **backend** e **frontend**.
+Vídeo demonstrativo do projeto https://youtu.be/Ta7rZbg2SjQ.
 
 ## Estrutura do Projeto
 
