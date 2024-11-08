@@ -22,8 +22,8 @@ Antes de iniciar o projeto, você precisará ter instalado em sua máquina:
 Primeiro, clone o repositório em sua máquina local:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/andersonxtrindade/pesquisa-eleitoral
+cd pesquisa-eleitoral
 ```
 
 ### Configurando o Backend
